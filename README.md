@@ -13,3 +13,7 @@
 <a href="https://www.youtube.com/c/synesta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="synesta" height="30" width="40" /></a>
 <a href="https://discord.gg/mna6jADkv2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mna6jADkv2" height="30" width="40" /></a>
 </p>
+
+
+##
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synesta&" alt="synesta" /></p>
