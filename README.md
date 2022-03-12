@@ -26,8 +26,3 @@
 <a href="https://www.youtube.com/c/synesta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="synesta" height="30" width="40" /></a>
 <a href="https://discord.gg/mna6jADkv2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eVh4cN4Vsn" height="30" width="40" /></a>
 </p>
-
-<!-- Music -->
-##
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31joe6enofa7zb47cc3obq6g5rga&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
